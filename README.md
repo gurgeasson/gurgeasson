@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently learning tech, and working on a career change.
-I a few months' time I'll know much more about git, coding, databases and much more. :metal:
+In a few months' time I'll know much more about git, coding, databases and much more. :metal:
 
 :godmode: Godspeed!
 
