@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I've got some exciting news to share — I enrolled in the CodeSpace Bootcamp at Edinburgh College, where I'm immersing myself in the world of coding as part of my career change journey. It's been an incredible experience so far, equipping me with practical skills and industry knowledge.
 
-In addition to the bootcamp, I've been actively learning through resources like freeCodeCamp, MIMO and challenge myself with coding challenges. I also work on my own coding projects.
+I have some exciting news to share — I successfully completed the CodeSpace Bootcamp at Edinburgh College as part of my career change journey into coding. It has been an incredible experience, providing me with practical skills and industry knowledge.
 
-You can check out my portfolio on GitHub to see what I've been up to. For the bootcamp, take a look at repositories [CodeSpace___Software_Development_CR2CODEZ22-S1XB](https://github.com/gurgeasson/CodeSpace___Software_Development_CR2CODEZ22-S1XB) and [CodeSpace___Induction_CR1CSICZ22-X1XA](https://github.com/gurgeasson/CodeSpace___Induction_CR1CSICZ22-X1XA), my most recent project is [randomProject](https://github.com/gurgeasson/randomProject), a random number generator. My solutions to coding challenges are in [CodeChallenges](https://github.com/gurgeasson/CodeChallenges).
+In addition to the bootcamp, I've been actively learning through resources like freeCodeCamp, MIMO, and challenging myself with coding exercises on platforms like Codewars. I'm also actively working on my own coding projects.
+
+Check out my portfolio here on GitHub to see what I've been up to. For the bootcamp, take a look at repositories [CodeSpace___Software_Development_CR2CODEZ22-S1XB](https://github.com/gurgeasson/CodeSpace___Software_Development_CR2CODEZ22-S1XB) and [CodeSpace___Induction_CR1CSICZ22-X1XA](https://github.com/gurgeasson/CodeSpace___Induction_CR1CSICZ22-X1XA), my most recent project is [randomProject](https://github.com/gurgeasson/randomProject), a random number generator. My solutions to coding challenges are in [CodeChallenges](https://github.com/gurgeasson/CodeChallenges).
 
 I'm thrilled about this new chapter in my life, and if you have any advice or resources to share, I'd love to hear from you! :metal:
 
